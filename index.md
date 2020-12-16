@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="rajat.jpeg">
 
-Hi! I am a Master's in Computer Science student at University of Colorado Boulder. Prior to this I have I did Bachelor's in Information Technology at Vellore Institute of Technology, Vellore. I have more than three years of work experience working for a startup company named Fastfox in India. I worked there as a full-stack developer. Apart from that I did an internship at Apple in Summer 2020 as a full-stack developer as well.
+Hi! I am pursuing Master's in Computer Science student at University of Colorado Boulder and am currently in the second year. Prior to this I have I did Bachelor's in Information Technology at Vellore Institute of Technology, Vellore. I have more than three years of work experience working for a startup company named Fastfox in India. I worked there as a full-stack developer. Apart from that I did an internship at Apple in Summer 2020 as a full-stack developer as well.
 
 ## Research Interest
 
-My research interests are broadly in Natural Language Processing, Deep Learning and Machine Learning. I am currently working in the [NALA](https://nala-cub.github.io/) lab under the guidance of Professor Katharina Kann. I am also working with Professor Chenhao Tan in the NLP-CSS Lab at CU Boulder. I wish to research interpretable machine learning and to find out answers to questions like what kind of information is represented in embedding vectors and can we teach a model to understand just a few 100 words properly.
+My research interests are broadly in Natural Language Processing, Deep Learning and Machine Learning. I am currently working in the [NALA lab](https://nala-cub.github.io/) under the guidance of Professor Katharina Kann. I am also working with Professor Chenhao Tan in the NLP-CSS Lab at CU Boulder. I wish to research interpretable machine learning and to find out answers to questions like what kind of information is represented in embedding vectors and can we teach a model to understand just a few 100 words properly.
 
 ## Projects
 
@@ -26,4 +26,3 @@ My research interests are broadly in Natural Language Processing, Deep Learning 
 - [Github](https://github.com/rajatbhatnagar94)
 - [Medium](https://medium.com/@rajat.bhatnagar)
 - [LinkedIn](https://www.linkedin.com/in/rajat-bhatnagar94)
-- [NALA Lab](https://nala-cub.github.io/)
