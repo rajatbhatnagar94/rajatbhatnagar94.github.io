@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [rajat.bhatnagar@colorado.edu](mailto:rajat.bhatnagar@colorado.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-(650) 505-6860](tel:+16505056860)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> 1475 Folsom Street
+> Apt 174
+> Boulder
+> CO - 80302
+> United States
 
 ---
 
