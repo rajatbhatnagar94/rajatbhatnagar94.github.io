@@ -21,6 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/rajat.bhatnagar1/)
+2. [Twitter](https://twitter.com/rajatbhatnaga18)

@@ -14,7 +14,7 @@ My research interests are broadly in Natural Language Processing, Deep Learning 
 
 ## Projects
 
-1. [Toxicity Classifier](http://detoxify.machineintheloop.com) (2020) - Used BERT for classifying toxic comments in Reddit. Developed a website where the moderators can delete the toxic comments. Integrated with the several subreddits. Also highlighted the key tokens due to which the decision was made by the classifier.
+1. [Toxicity Classifier](http://detoxify.machineintheloop.com) (2020) - Used BERT for classifying toxic comments in Reddit. Developed a website where the moderators can delete the toxic comments. Integrated with the several subreddits. Also highlighted the key tokens due to which the decision was made by the classifier. [Youtube Video](https://www.youtube.com/watch?v=GLFzFjl7X7o)
 2. A survey of neural machine translation for low-resource languages. Trained LSTM for 26 languages using low-resource hyperparameters.
 3. [Chatting Website](http://negotiation.machineintheloop.com) (2020) A website for group chat.
 4. [Sniper](https://youtu.be/d72DzrDAfFM) (2019) - Made a system to prevent Denial of Service attacks by blocking the IP address of the attacker. Technologies used - docker, nginx plus, elastic search, elastalert, kibana, filebeats.
