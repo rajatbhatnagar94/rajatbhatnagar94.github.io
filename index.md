@@ -18,7 +18,7 @@ My research interests are broadly in Natural Language Processing, Deep Learning 
 2. I developed the frontend of a utility tool through which administrators could add, remove or update access to system accounts. I used React js and ag-grid framework for the frontend.
 
 ## Projects at Fastfox
-1. One of the lead members in designing and developing the customer facing website Fastfox.com using React js.
+1. One of the lead members in designing and developing the customer facing website Fastfox.com using React js and Redux.
 2. Developed and designed numerous apis for Fastfox's internal apps like Broex, Brofirst, LeadGen using Node js, PostgreSQL.
 3. Worked on the recommendation engine for fetching inventories using SOLR. It included factors like user filters, inventory accessibility, inventory age etc. It worked on a mathematical model which gave score to the inventories according to various factors.
 4. Developed a bot to crawl through Whatsapp Web using Python. The bot could perform actions like joining a whatsapp group, retrieve chat messages from a group, retrieve participants of a group, exit a group. All of this was done in a randomized manner such that Whatsapp doesn't block the bot.
